@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.*
+
+# Application secrets
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# OS and IDE files
+node_modules/
+target/
+*.log
+.idea/
+.vscode/
+.DS_Store
